@@ -1,9 +1,9 @@
 # sum of two numbers
-def sum(a, b):
+def sumof(a, b):
     return a + b
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
-print(f"the sum of {a} and {b} is {sum(a, b)}")
+print(f"the sum of {a} and {b} is {sumof(a, b)}")
 
 
 # odd or even checker
